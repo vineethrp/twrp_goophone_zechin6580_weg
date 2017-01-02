@@ -1,0 +1,2 @@
+add_lunch_combo omni_zechin6580_weg-eng
+add_lunch_combo omni_zechin6580_weg-userdebug
